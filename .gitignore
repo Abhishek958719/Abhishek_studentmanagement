@@ -23,3 +23,12 @@ application.yml
 /.project
 /.classpath
 /.settings/
+
+# Maven Wrapper files (optional, if you don't use them)
+mvnw
+mvnw.cmd
+.mvn/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
