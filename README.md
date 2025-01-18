@@ -9,7 +9,8 @@ Student management application is designed to manage student records. The
 system allows user to perform basic create, read, update and delete operations on
 student data. The application aims to be simple, efficient and user friendly.
 Core functions:
-The application should be able to,
+The application should be able to
+
 	A) add a new student record with the following fields
 		1) name(string, required)
 		2) age(string, required)
