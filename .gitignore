@@ -1,0 +1,25 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA project files
+/.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Spring Boot configuration
+application.properties
+application.yml
+
+# MySQL or Redis persistence files
+*.sql
+*.rdb
+*.aof
+
+# IDE-specific files
+/.vscode/
+/.project
+/.classpath
+/.settings/
